@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vueexport-helper-c27b6911.js";import{y as r,G as c}from"./index-979d7bd3.js";const n={};function o(t,s){return r(),c("div",null,"视频")}const f=e(n,[["render",o]]);export{f as default};
